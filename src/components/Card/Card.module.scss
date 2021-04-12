@@ -1,0 +1,13 @@
+.Card {
+  width: 250px;
+  height: 350px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 500px;
+  background: lightyellow;
+
+  .pokemonCard {
+    text-align: center;
+    color: navy;
+  }
+}
